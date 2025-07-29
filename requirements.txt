@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+tensorflow>=2.5.0
+keras>=2.5.0
+dlib>=19.22.0
+gdown>=4.4.0 
